@@ -4,6 +4,11 @@
 
 Welcome to your new favourite Movie service. Sharkvision allows you to search for movies, add them to playlists and even recommends a random movie when you can't decide what to watch.
 
+## IMPORTANT NOTICE
+
+The IMDB API is not free and is only available for a limited amount of requests per day.  
+If the movies are not being correctly displayed **please contact us** to solve the issue.
+
 ## Table Of Contents
 
 1. [Summary](#summary)
