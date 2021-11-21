@@ -60,6 +60,7 @@ Technologies used in this project:
 - [Spring](https://spring.io/)
 - [MySQL](https://www.mysql.com/)
 - [GitHub](https://github.com/)
+- [Node.js](https://nodejs.org/en/)
 - [Angular](https://angular.io/)
 
 ## Getting Started - Local Method
@@ -87,6 +88,7 @@ FLUSH PRIVILEGES;
 - Clone the frontend repository: [https://github.com/EN-IH-WDPT-JUN21/CSharks-SharkVisionFrontEnd](https://github.com/EN-IH-WDPT-JUN21/CSharks-SharkVisionFrontEnd)
 - Install the dependencies: `npm install`
 - Run the following command to start the frontend application: `npm start`
+- The application will be available at: [http://localhost:4200/](http://localhost:4200/)
 
 ## Backend API
 
@@ -238,6 +240,41 @@ To authenticate the user/admin manually (with postman or other tool) you must fo
 ```
 
 ## Frontend Application
+
+The frontend application allows the user to search movies and manage their playlists.
+It's functionality can be divided into the following sections:
+
+- Home page: where it shows the top rated movies and has a random generated button to get a movie;
+- Search page: where the user can search for a movie by title;
+- Sign in page: where the user can sign in with their username and password, or register an account;
+- User profile page: where the user can see their information and edit it;
+- Playlist page: where the user can see and edit their playlists and add movies to them.
+
+### Homepage
+
+![Home Screen](./images/home_screen.png)
+
+![Random Movie](./images/random_movie.png)
+
+### Searching Movies
+
+![Search Movie](./images/search_function.png)
+
+### SignIn
+
+![Login](./images/login.png)
+
+![Register](./images/register.png)
+
+### Profile
+
+![Register](./images/user_profile.png)
+
+### Playlists
+
+![Register](./images/user_playlists.png)
+
+![Register](./images/playlist.png)
 
 ## Contacts
 
