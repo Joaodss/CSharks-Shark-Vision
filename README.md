@@ -166,33 +166,33 @@ To authenticate the user/admin manually (with postman or other tool) you must fo
 
 #### RegisterUserDTO
 
-```json
+```javascript
 {
-    username: String,
-    emailAddress: String,
-    password: String
+  username: String,
+  emailAddress: String,
+  password: String
 }
 ```
 
 #### UsernameDTO
 
-```json
+```javascript
 {
-    username: String
+  username: String;
 }
 ```
 
 #### EmailDTO
 
-```json
+```javascript
 {
-    emailAddress: String
+  emailAddress: String;
 }
 ```
 
 #### UsersDTO
 
-```json
+```javascript
 {
     username: String,
     emailAddress: String,
@@ -205,30 +205,30 @@ To authenticate the user/admin manually (with postman or other tool) you must fo
 
 #### PlaylistsDTO
 
-```json
+```javascript
 {
     playlistId: Long,
     user: Users,
     name: String,
-    visible: boolean
+    visible: Boolean
 }
 ```
 
 #### PlaylistWithMovieDTO
 
-```json
+```javascript
 {
     playlistId: Long,
     user: Users,
     name: String,
-    visible: boolean,
+    visible: Boolean,
     movieId: String
 }
 ```
 
 #### MoviesDTO
 
-```json
+```javascript
 {
     titleId: Long,
     name: String,
