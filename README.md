@@ -168,9 +168,9 @@ To authenticate the user/admin manually (with postman or other tool) you must fo
 
 ```javascript
 {
-  username: String,
-  emailAddress: String,
-  password: String
+    username: String,
+    emailAddress: String,
+    password: String
 }
 ```
 
@@ -178,7 +178,7 @@ To authenticate the user/admin manually (with postman or other tool) you must fo
 
 ```javascript
 {
-  username: String;
+    username: String
 }
 ```
 
@@ -186,7 +186,7 @@ To authenticate the user/admin manually (with postman or other tool) you must fo
 
 ```javascript
 {
-  emailAddress: String;
+    emailAddress: String
 }
 ```
 
