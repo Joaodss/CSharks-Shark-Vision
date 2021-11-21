@@ -6,19 +6,25 @@ Welcome to your new favourite Movie service. Sharkvision allows you to search fo
 
 ## Table Of Contents
 
-- [Summary](#summary)
-- [Table Of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-  - [Project Requirements](#project-requirements)
-  - [Built With](#built-with)
-- [Getting Started - Local Method](#getting-started---local-method)
-  - [Setup - Backend Application](#setup---backend-application)
-  - [Setup - Frontend Application](#setup---frontend-application)
-- [Backend API](#backend-api)
-  - [Security](#security)
-  - [Routes](#routes)
-  - [DTOs](#dtos)
-- [Contacts](#contacts)
+1. [Summary](#summary)
+2. [Table Of Contents](#table-of-contents)
+3. [About The Project](#about-the-project)
+   1. [Project Requirements](#project-requirements)
+   2. [Built With](#built-with)
+4. [Getting Started - Local Method](#getting-started---local-method)
+   1. [Setup - Backend Application](#setup---backend-application)
+   2. [Setup - Frontend Application](#setup---frontend-application)
+5. [Backend API](#backend-api)
+   1. [Security](#security)
+   2. [Routes](#routes)
+   3. [DTOs](#dtos)
+6. [Frontend Application](#frontend-application)
+   1. [Homepage](#homepage)
+   2. [Searching Movies](#searching-movies)
+   3. [SignIn](#signin)
+   4. [Profile](#profile)
+   5. [Playlists](#playlists)
+7. [Contacts](#contacts)
 
 ## About The Project
 
