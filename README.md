@@ -80,7 +80,7 @@ The project contains a separate backend and a frontend part. To locally run the 
 
 ### Setup - Backend Application
 
-- Clone the backend repository: [https://github.com/EN-IH-WDPT-JUN21/CSharks-BackEndHomework](https://github.com/EN-IH-WDPT-JUN21/CSharks-BackEndHomework)
+- Clone the backend repository: [https://github.com/Joaodss/CSharks-SharkVisionBackEnd](https://github.com/Joaodss/CSharks-SharkVisionBackEnd)
 - Setup the following database name and user, or setup your own database by changing the values in the `application.properties` file
 
 ```sql
@@ -96,7 +96,7 @@ FLUSH PRIVILEGES;
 
 ### Setup - Frontend Application
 
-- Clone the frontend repository: [https://github.com/EN-IH-WDPT-JUN21/CSharks-SharkVisionFrontEnd](https://github.com/EN-IH-WDPT-JUN21/CSharks-SharkVisionFrontEnd)
+- Clone the frontend repository: [https://github.com/Joaodss/CSharks-SharkVisionFrontEnd](https://github.com/Joaodss/CSharks-SharkVisionFrontEnd)
 - Install the dependencies: `npm install`
 - Run the following command to start the frontend application: `npm start`
 - The application will be available at: [http://localhost:4200/](http://localhost:4200/)
